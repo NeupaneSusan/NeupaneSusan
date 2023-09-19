@@ -4,10 +4,11 @@
 
 <h3>List of project </h3>
   <ul style="margin-left:10px">
-     <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
-     <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
-    <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
-    <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
+     <li>  <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
+     <li>  <a href="https://play.google.com/store/apps/details?id=com.nct.saarashopping"> E-commerce </a>  </li>
+    <li>  <a href="https://play.google.com/store/apps/details?id=com.nctbutwal.restro_ms_online"> Restro_ms </a>  </li>
+    <li>  <a href="https://play.google.com/store/apps/details?id=com.nct.iberrysupport"> Iberry Support </li>
+    <li>  POS management System (Desktop) </li>
   </ul>
 
    
