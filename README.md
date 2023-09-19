@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susane Neuapne</h1>
 <h3 align="center">A passionate flutter and nodejs developer</h3>
 
-- 🔭 I’m currently working on [SisoNepal](https://sisonepal.org.np/test/)
--  List of project
+
+<h3>List of project </h3>
   <ul style="margin-left:10px">
      <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
      <li> <a href="https://play.google.com/store/apps/details?id=com.nct.daddyskitchen"> Daddy's Kitchen </a>  </li>
